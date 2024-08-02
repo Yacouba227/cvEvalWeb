@@ -416,3 +416,111 @@ header .navbar ul li a:hover{
     box-shadow: 0 0 0 .5rem rgba(255,255,255,.2),
                 0 1rem 2rem rgba(0,0,0,.4);
 }
+
+/* 
+@media (max-width: 1200px) {
+    body {
+        padding: 3rem;
+    }
+    
+    .container {
+        width: 90%;
+        height: auto;
+    }
+    
+    header {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    
+    header .navbar {
+        padding: 0;
+    }
+    
+    .contact .row {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .contact .row form .box {
+        width: 100%;
+    }
+    
+    .contact .row .content {
+        padding: 2rem 0;
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+        padding: 2rem;
+    }
+    
+    .container {
+        width: 100%;
+    }
+    
+    .home .name span {
+        font-size: 2.5rem;
+    }
+    
+    .home .post span {
+        font-size: 2rem;
+    }
+    
+    .service .box-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .service .box-container .box {
+        width: 90%;
+        margin: 1rem 0;
+    }
+    
+    .education .box-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .education .box-container .box {
+        width: 90%;
+        margin: 1rem 0;
+    }
+}
+
+@media (max-width: 480px) {
+    html {
+        font-size: 50%;
+    }
+    
+    .heading {
+        font-size: 2.5rem;
+    }
+    
+    .btn {
+        font-size: 1.5rem;
+        padding: .5rem 2rem;
+    }
+    
+    .home h3 {
+        font-size: 2rem;
+    }
+    
+    .home .name span {
+        font-size: 2rem;
+    }
+    
+    .home .post span {
+        font-size: 1.5rem;
+    }
+    
+    .contact .row .content h3 {
+        font-size: 1.8rem;
+    }
+    
+    .contact .row .content p {
+        font-size: 1.2rem;
+    }
+} */
